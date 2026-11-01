@@ -18,8 +18,13 @@ public class Ejercicio04 {
         System.out.println("Valor: " + valor);
     }
 }
-
 /***
  * EVIDENCIA DEL RUN:
- * Pegue aquí la evidencia de la ejecución del .java
+ *  run:
+    Ingrese el costo por minutos: 
+    12
+    Ingrese el numero de minutos consumidos en el mes: 
+    22
+    Valor: 264
+    BUILD SUCCESSFUL (total time: 5 seconds)
  */
